@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * @author Dustin Fraser
+ * @date 01/19/2018
+ * @description: Blocking zombies
+*/ 
+
 void set_zombies(int n, char fred[n][n]) {
 
 	int i, j;
